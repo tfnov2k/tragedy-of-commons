@@ -1,2 +1,4 @@
 # tragedy-of-commons
-Analysing the Tragedy of the Commons  through Gradient Descent
+Analysing the Tragedy of the Commons  through Gradient Descent [Python]
+
+This study simulates a multi-agent decision-making scenario based on the Tragedy of the Commons where multiple farmers share a limited resource — a pasture with a carrying capacity of a finite number of cows. Farmers can choose to adopt either cooperative or defecting strategies where cooperators limit their herd size while defectors attempt to graze more cows for greater short-term profit. Using gradient descent and adaptive learning rates, cooperating farmers optimize their grazing strategies to balance profit with pasture health while defectors are penalized for exceeding sustainable limits. The results reveal a gradual stabilization as cooperators adjust and defectors face penalties. Pasture health follows a pattern that shows the balance between resource degradation and recovery
